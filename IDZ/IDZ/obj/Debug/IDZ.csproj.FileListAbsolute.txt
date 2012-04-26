@@ -1,0 +1,5 @@
+C:\Users\близнецы\Documents\Visual Studio 2008\Projects\IDZ\IDZ\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\близнецы\Documents\Visual Studio 2008\Projects\IDZ\IDZ\bin\Debug\IDZ.exe
+C:\Users\близнецы\Documents\Visual Studio 2008\Projects\IDZ\IDZ\bin\Debug\IDZ.pdb
+C:\Users\близнецы\Documents\Visual Studio 2008\Projects\IDZ\IDZ\obj\Debug\IDZ.exe
+C:\Users\близнецы\Documents\Visual Studio 2008\Projects\IDZ\IDZ\obj\Debug\IDZ.pdb

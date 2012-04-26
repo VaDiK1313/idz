@@ -128,9 +128,32 @@ namespace IDZ
 
 		
 
-        // Devil9725
+        // Artyom
 		else if (u==2)
         {
+	    Console.WriteLine("                 Quick Soring");
+            System.Console.WriteLine();
+            int n;
+            System.Console.WriteLine("Enter count of elements:");
+            n = int.Parse(Console.ReadLine());
+            int[] a = new int[n];
+            System.Console.WriteLine("Enter the elements:");
+            for (int i = 0; i < n; i++)
+            {
+                a[i] = int.Parse(Console.ReadLine());
+            }
+            System.Console.WriteLine("The array before sorting:");
+            foreach (double x in a)
+            {
+                System.Console.Write(x + " ");
+            }
+            qs(a, 0, n - 1);
+
+            System.Console.WriteLine("\n\nThe array after sorting:");
+            foreach (double x in a)
+            {
+                System.Console.Write(x + " ");
+            }
 
             System.Console.WriteLine("\n\nPress the <Enter> key");
             System.Console.ReadLine();

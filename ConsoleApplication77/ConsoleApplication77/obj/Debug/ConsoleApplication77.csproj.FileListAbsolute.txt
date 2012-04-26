@@ -1,5 +1,0 @@
-C:\Users\близнецы\Documents\Visual Studio 2008\Projects\ConsoleApplication77\ConsoleApplication77\bin\Debug\ConsoleApplication77.exe
-C:\Users\близнецы\Documents\Visual Studio 2008\Projects\ConsoleApplication77\ConsoleApplication77\bin\Debug\ConsoleApplication77.pdb
-C:\Users\близнецы\Documents\Visual Studio 2008\Projects\ConsoleApplication77\ConsoleApplication77\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\близнецы\Documents\Visual Studio 2008\Projects\ConsoleApplication77\ConsoleApplication77\obj\Debug\ConsoleApplication77.exe
-C:\Users\близнецы\Documents\Visual Studio 2008\Projects\ConsoleApplication77\ConsoleApplication77\obj\Debug\ConsoleApplication77.pdb

@@ -1,5 +1,0 @@
-C:\Users\близнецы\Documents\Visual Studio 2008\Projects\ConsoleApplication666\ConsoleApplication666\bin\Debug\ConsoleApplication666.exe
-C:\Users\близнецы\Documents\Visual Studio 2008\Projects\ConsoleApplication666\ConsoleApplication666\bin\Debug\ConsoleApplication666.pdb
-C:\Users\близнецы\Documents\Visual Studio 2008\Projects\ConsoleApplication666\ConsoleApplication666\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\близнецы\Documents\Visual Studio 2008\Projects\ConsoleApplication666\ConsoleApplication666\obj\Debug\ConsoleApplication666.exe
-C:\Users\близнецы\Documents\Visual Studio 2008\Projects\ConsoleApplication666\ConsoleApplication666\obj\Debug\ConsoleApplication666.pdb

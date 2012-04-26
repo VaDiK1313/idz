@@ -162,10 +162,41 @@ namespace IDZ
      
 
 
-        //Vlad77
+        //Vladislav
 		else if (u==3)
 		{
-            
+            int n; // Размерность массива
+            int j, i; // Счетчики циклов
+            int min;
+            double tmp;
+            System.Console.WriteLine("              Sorting a simple choice");
+            System.Console.WriteLine();
+            System.Console.WriteLine("Enter count of elements:");
+            n = Convert.ToInt32(Console.ReadLine());
+            double[] a = new double[n]; // Формирование массива размера n
+
+            System.Console.WriteLine("Enter the elements:");
+            for (j = 0; j < n; j++)
+                a[j] = Convert.ToDouble(Console.ReadLine());// Ввод массива
+            System.Console.WriteLine("The array before sorting:");
+            foreach (double x in a)
+            {
+                System.Console.Write(x + " ");
+            }
+
+            for (i = 0; i < n; i++)
+            {
+                min = i;
+                // поиск минимума
+                for (j = i; j < n; j++)
+                    if (a[min] > a[j]) { min = j; }
+                if (min != i) { tmp = a[min]; a[min] = a[i]; a[i] = tmp; }
+            }
+            System.Console.WriteLine("\n\nThe array after sorting:");
+            foreach (double x in a)
+            {
+                System.Console.Write(x + " ");
+            }
             System.Console.WriteLine("\n\nPress the <Enter> key");
             System.Console.ReadLine();
             Console.Clear();	
